@@ -3,11 +3,9 @@
 
 [e ɛs ti pæθ] _n_.
 
-Ⅰ. A command-line utility for querying Python ASTs using XPath syntax.
+I think this content is better than what was here before, so I'm going to add this and remove the other stuff.
 
-ⅠⅠ. A better way of searching through your codebase.
-
-## Example usage
+## Example Usage
 _Finding all usages of the_ `eval` _builtin:_
 ```bash
 $ astpath ".//Call/func/Name[@id='eval']" | head -5
