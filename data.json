@@ -1,0 +1,37 @@
+[
+  {
+    "icon":"https://www.clipartmax.com/png/middle/234-2347009_cloud-forecast-sun-weather-icon-weather-icon.png",
+    "Date":"08-11-2020",
+    "MaxTemp":"35.1 Celsius",
+    "MinTemp":"22.1 Celsius",
+    "Feels":"27 Celsius"
+  },
+  {
+    "icon":"https://www.clipartmax.com/png/middle/249-2493418_award-day-forecast-sun-sunny-weather-winter-icon-sunny-weather-icon.png",
+    "Date":"07-11-2020",
+    "MaxTemp":"34.1 Celsius",
+    "MinTemp":"21.1 Celsius",
+    "Feels":"25 Celsius"
+  },
+  {
+    "icon":"https://www.clipartmax.com/png/middle/249-2493418_award-day-forecast-sun-sunny-weather-winter-icon-sunny-weather-icon.png",
+    "Date":"06-11-2020",
+    "MaxTemp":"39.1 Celsius",
+    "MinTemp":"23.1 Celsius",
+    "Feels":"29 Celsius"
+  },
+  {
+    icon:"https://www.clipartmax.com/png/middle/234-2347009_cloud-forecast-sun-weather-icon-weather-icon.png",
+    "Date":"05-11-2020",
+    "MaxTemp":"31.1 Celsius",
+    "MinTemp":"25.1 Celsius",
+    "Feels":"27 Celsius"
+  },
+  {
+    icon:"https://www.clipartmax.com/png/middle/234-2347009_cloud-forecast-sun-weather-icon-weather-icon.png",
+    "Date":"04-11-2020",
+    "MaxTemp":"32.1 Celsius",
+    "MinTemp":"22.1 Celsius",
+    "Feels":"26 Celsius"
+  }
+]
